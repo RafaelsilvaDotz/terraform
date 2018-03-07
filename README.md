@@ -15,9 +15,9 @@ $ export AWS_ACCESS_KEY_ID=""
 
 ### Set permission
 
-$ chmod +x deploy.sh
+$ chmod +x set.sh
 
-$ ./deploy.sh
+$ ./set.sh
 
 
 # Depois execute
