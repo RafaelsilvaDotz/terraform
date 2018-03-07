@@ -1,4 +1,4 @@
-# Terraform
+# Terraform criando primeiro ec2
 
 ### Clonando projeto
 $ git clone https://github.com/rafaelsilvaa10/terraform.git
